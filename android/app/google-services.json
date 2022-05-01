@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "93688306315",
+    "project_id": "revive-11dbb",
+    "storage_bucket": "revive-11dbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93688306315:android:108c7f9af8c25f26e0d28e",
+        "android_client_info": {
+          "package_name": "revive.com.revivefrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93688306315-lumbt7d8ekvo3guu3mll1rdg64c64unv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "revive.com.revivefrr",
+            "certificate_hash": "499c0f9ff4c36e4228c24e76f0d7b4c8b3dad22d"
+          }
+        },
+        {
+          "client_id": "93688306315-2n93t9bdshsg3h3muggicofmop1hpuig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEe-wONMmhrsvgO_2ZaMGDeb5Ftk2mvsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93688306315-2n93t9bdshsg3h3muggicofmop1hpuig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
